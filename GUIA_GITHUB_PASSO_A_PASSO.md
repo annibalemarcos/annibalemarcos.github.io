@@ -61,7 +61,7 @@ git commit -m "Deploy inicial para GitHub Pages"
 
 # 4. Adicionar o repositório remoto
 # SUBSTITUA "seu-usuario" e "portfolio" pelos seus dados!
-git remote add origin https://github.com/seu-usuario/portfolio.git
+git remote add origin https://github.com/annibalemarcos/annibalemarcos.github.io.git
 
 # 5. Renomear branch para main
 git branch -M main
