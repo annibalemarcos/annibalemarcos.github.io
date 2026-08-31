@@ -218,7 +218,7 @@ export default function App() {
                     <Github className="w-[18px] h-[18px]" />
                   </a>
                   <a
-                    href="https://www.linkedin.com/in/marcos-annibale-243997402"
+                    href="https://www.linkedin.com/in/marcosannibale/"
                     target="_blank"
                     rel="noopener noreferrer"
                     title="LinkedIn"

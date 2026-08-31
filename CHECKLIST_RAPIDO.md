@@ -31,8 +31,8 @@ public/Marcos_Annibale_CV_EN.pdf ✅
 ```bash
 git init
 git add .
-git commit -m "Update contact info"
-git remote add origin https://github.com/annibalemarcos/annibalemarcos.github.io.git
+git commit -m "Configuração inicial"
+git remote add origin https://github.com/SEU-USUARIO/SEU-REPO.git
 git branch -M main
 git push -u origin main
 ```
